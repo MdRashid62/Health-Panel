@@ -1,3 +1,3 @@
 # Health-Panel
 
-![](example/preview.png)
+![Preview](example/preview.png)

@@ -1,3 +1,3 @@
-# He
+# Hea
 
 ![Preview](example/preview.png)

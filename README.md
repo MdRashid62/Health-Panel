@@ -1,3 +1,3 @@
-# Health-Panel
+# Healt
 
 ![Preview](example/preview.png)

@@ -1,3 +1,3 @@
-# Heal
+# Healt
 
 ![Preview](example/preview.png)

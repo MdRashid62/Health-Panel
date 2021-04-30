@@ -1,3 +1,3 @@
-# Health-Panel o
+# Health-Panel 
 
 ![Preview](example/preview.png)
